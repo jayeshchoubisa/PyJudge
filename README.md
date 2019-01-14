@@ -15,7 +15,9 @@ Timeline
 
 The project was officially announced in the [Telegram
 Group](https://t.me/pyjaipur) on the 9th of January 2019. It is an ongoing
-project and so you can jump in any time!
+project and so you can jump in any time! 
+[Join the group](https://t.me/pyjaipur)
+
 
 Pre-requisite
 ----------------
